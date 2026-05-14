@@ -9,7 +9,7 @@ response = requests.get(url)
 
 data = response.json()
 
-print(data)   # debugging kosam
+print(data)   
 
 if data["cod"] == 200:
     temperature = data["main"]["temp"]
