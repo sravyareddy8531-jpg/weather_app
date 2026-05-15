@@ -75,7 +75,7 @@ Add your project screenshots here:
 
 ## 👨‍💻 Author
 
-GitHub: https://github.com/your-username  
+GitHub: https://github.com/sravyareddy8531-jpg/weather_app/tree/main
 
 ---
 
